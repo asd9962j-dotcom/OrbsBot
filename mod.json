@@ -6,7 +6,7 @@
 		"mac": "*",
 		"ios": "*"
 	},
-	"id": "personal.orbsbot"
+	"id": "personal.orbsbot",
 	"name": "AutoBot",
 	"version": "1.0.0",
 	"developer": "Personal",
