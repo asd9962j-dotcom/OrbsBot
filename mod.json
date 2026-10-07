@@ -6,9 +6,9 @@
 		"mac": "*",
 		"ios": "*"
 	},
-	"id": "personal.autobot",
+	"id": "personal.orbsbot"
 	"name": "AutoBot",
 	"version": "1.0.0",
 	"developer": "Personal",
-	"description": "Sets your key count to 5000 when the game starts."
+	"description": "Inyecta orbes, diamantes y llaves doradas"
 }
